@@ -3,6 +3,8 @@
 import React, { useState } from "react";
 import { motion, useMotionTemplate, useMotionValue } from "framer-motion";
 
+import { FiArrowRight } from "react-icons/fi";
+
 // The animation variants for the cards
 const cardVariants = {
   hidden: { y: 40, opacity: 0 },
@@ -86,7 +88,7 @@ const BentoCard = ({
 
 export default function BentoGrid() {
   return (
-    <div className="relative w-full max-w-6xl mx-auto p-8 lg:p-12 mt-10">
+    <div className="relative w-full max-w-6xl mx-auto p-8 lg:p-12 mt-2">
 
       {/* Background Glowing Pulse Behind Grid */}
       <motion.div
@@ -166,6 +168,16 @@ export default function BentoGrid() {
         <BentoCard index={4} className="items-center text-center">
           <p className="text-gray-400 font-medium mb-4 uppercase tracking-wider text-sm">Programming Languages</p>
           <h2 className="text-3xl font-medium text-white mb-2">Python & MySQL</h2>
+        </BentoCard>
+        
+        {/* Box 6 (Bottom Landscape) */}
+        <BentoCard index={5} className="md:col-span-3 items-center justify-center text-center py-12">
+          <p className="text-gray-400 font-medium mb-2 uppercase tracking-wider text-sm">Featured project</p>
+          <h2 className="text-3xl md:text-4xl font-light text-white mb-6">Innovative AI & Product Solutions</h2>
+          <a href="#" className="flex items-center gap-2 text-accent-glow hover:text-white transition-colors group mx-auto">
+            <span className="text-lg font-medium">click here to see all the project</span>
+            <FiArrowRight className="group-hover:translate-x-1 transition-transform" />
+          </a>
         </BentoCard>
 
       </div>
