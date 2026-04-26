@@ -1,0 +1,176 @@
+{"id":1,"question":"Tell me about Abhijeet’s overall background.","intent":"summary","short_answer":"Product Manager with 5+ years in SaaS and AI-driven products.","long_answer":"Abhijeet Kumar is a Product Manager with over 5 years of experience building and scaling SaaS and AI-driven products. He specializes in product analytics, retention, and user-centric product development across multiple organizations.","keywords":["background","summary","experience"],"tags":["hr","intro"],"embedding":[]}
+
+{"id":2,"question":"How many years of experience does Abhijeet have?","intent":"summary","short_answer":"5+ years.","long_answer":"Abhijeet has over 5 years of experience across product management, growth, and product-led roles.","keywords":["experience","years"],"tags":["hr"],"embedding":[]}
+
+{"id":3,"question":"What domains has he worked in?","intent":"experience","short_answer":"SaaS, marketplace, and healthcare.","long_answer":"Abhijeet has worked across SaaS platforms, marketplace ecosystems like IndiaMART, and healthcare-related product environments.","keywords":["domains","industries"],"tags":["experience"],"embedding":[]}
+
+{"id":4,"question":"What is his current role?","intent":"experience","short_answer":"Associate Product Manager at RCV Technologies.","long_answer":"He is currently working as an Associate Product Manager at RCV Technologies, focusing on retention, onboarding optimization, and AI-driven workflows.","keywords":["current role","rcv"],"tags":["experience"],"embedding":[]}
+
+{"id":5,"question":"What did he do at RCV Technologies?","intent":"experience","short_answer":"Worked on retention, analytics, and AI workflows.","long_answer":"At RCV Technologies, he improved retention by 34%, increased ARR/NRR by 43%, reduced support requests by 80%, and built AI-based workflows including RAG systems.","keywords":["rcv","impact","retention"],"tags":["experience","metrics"],"embedding":[]}
+
+{"id":6,"question":"What was his role at IndiaMART?","intent":"experience","short_answer":"Associate Product Manager (Retention).","long_answer":"At IndiaMART, he worked as an Associate Product Manager focused on retention, improving DAU, reducing churn, and optimizing product experience through experiments.","keywords":["indiamart","retention"],"tags":["experience"],"embedding":[]}
+
+{"id":7,"question":"What did he do at Flexmotiv?","intent":"experience","short_answer":"Sales Head and Product Manager.","long_answer":"At Flexmotiv, he managed the full product lifecycle from MVP to GTM, collaborated with stakeholders, and drove 7x revenue growth through product improvements.","keywords":["flexmotiv","growth"],"tags":["experience"],"embedding":[]}
+
+{"id":8,"question":"What are his key achievements?","intent":"metrics","short_answer":"Retention +34%, DAU +55%, ARR +43%.","long_answer":"He improved retention by 34%, increased DAU by 55%, scaled ARR/NRR by 43%, improved acquisition by 59%, and reduced support requests by 80%.","keywords":["metrics","impact"],"tags":["metrics"],"embedding":[]}
+
+{"id":9,"question":"What metrics has he improved?","intent":"metrics","short_answer":"Retention, DAU, ARR, CSAT, conversion.","long_answer":"He has improved retention, DAU, ARR, NRR, CSAT, acquisition rates, and conversion funnels through data-driven product decisions.","keywords":["metrics","kpi"],"tags":["metrics"],"embedding":[]}
+
+{"id":10,"question":"What products has he worked on?","intent":"experience","short_answer":"SaaS and AI-driven products.","long_answer":"He has worked on SaaS platforms, AI-powered systems, and customer engagement products focused on growth and retention.","keywords":["products","saas"],"tags":["experience"],"embedding":[]}
+
+{"id":11,"question":"Has he worked on SaaS products?","intent":"experience","short_answer":"Yes.","long_answer":"Yes, he has owned and scaled SaaS modules across multiple organizations.","keywords":["saas"],"tags":["experience"],"embedding":[]}
+
+{"id":12,"question":"Has he worked on retention?","intent":"experience","short_answer":"Yes, extensively.","long_answer":"Retention has been a core focus, with improvements up to 34% across products.","keywords":["retention"],"tags":["experience"],"embedding":[]}
+
+{"id":13,"question":"Has he worked with cross-functional teams?","intent":"experience","short_answer":"Yes.","long_answer":"He has collaborated with engineering, design, and business teams to deliver product outcomes.","keywords":["cross functional"],"tags":["experience"],"embedding":[]}
+
+{"id":14,"question":"Does he have stakeholder management experience?","intent":"experience","short_answer":"Yes.","long_answer":"He has worked with 20+ stakeholders to define product goals and execution plans.","keywords":["stakeholders"],"tags":["experience"],"embedding":[]}
+
+{"id":15,"question":"Does he do customer discovery?","intent":"product_thinking","short_answer":"Yes.","long_answer":"He conducts discovery calls and gathers user insights to identify product opportunities.","keywords":["discovery"],"tags":["pm"],"embedding":[]}
+
+{"id":16,"question":"Does he do roadmap planning?","intent":"product_thinking","short_answer":"Yes.","long_answer":"He defines product roadmaps aligned with OKRs and business goals.","keywords":["roadmap"],"tags":["pm"],"embedding":[]}
+
+{"id":17,"question":"Does he write PRDs?","intent":"skills","short_answer":"Yes.","long_answer":"He writes PRDs, user stories, and workflows to guide product development.","keywords":["prd"],"tags":["skills"],"embedding":[]}
+
+{"id":18,"question":"Does he create user stories and wireframes?","intent":"skills","short_answer":"Yes.","long_answer":"He creates user stories, workflows, and wireframes for product features.","keywords":["wireframe"],"tags":["skills"],"embedding":[]}
+
+{"id":19,"question":"What is his education?","intent":"summary","short_answer":"MBA IIT Delhi, B.Tech EEE.","long_answer":"He is pursuing an MBA from IIT Delhi and holds a B.Tech in Electrical and Electronics Engineering.","keywords":["education"],"tags":["hr"],"embedding":[]}
+
+{"id":20,"question":"Where did he study?","intent":"summary","short_answer":"IIT Delhi and IP University.","long_answer":"He studied at IIT Delhi and Guru Gobind Singh Indraprastha University.","keywords":["college"],"tags":["hr"],"embedding":[]}
+{"id":21,"question":"Does he have an MBA?","intent":"summary","short_answer":"Yes, pursuing MBA from IIT Delhi.","long_answer":"Abhijeet is currently pursuing a Master of Business Administration (MBA) from IIT Delhi with a focus on Marketing and a minor in Consumer Insight.","keywords":["mba","iit delhi"],"tags":["education","hr"],"embedding":[]}
+
+{"id":22,"question":"Does he have a technical background?","intent":"summary","short_answer":"Yes, B.Tech in Electrical and Electronics Engineering.","long_answer":"Yes, Abhijeet has a technical background with a B.Tech degree in Electrical and Electronics Engineering, which supports his analytical and technical approach to product management.","keywords":["technical","engineering"],"tags":["education"],"embedding":[]}
+
+{"id":23,"question":"What is his engineering degree in?","intent":"summary","short_answer":"Electrical and Electronics Engineering.","long_answer":"Abhijeet completed his Bachelor of Technology (B.Tech) in Electrical and Electronics Engineering.","keywords":["degree","engineering"],"tags":["education"],"embedding":[]}
+
+{"id":24,"question":"What certifications has he completed?","intent":"summary","short_answer":"Airtribe AI PM and McKinsey Forward.","long_answer":"He has completed certifications including the Airtribe AI Product Management course and the McKinsey Forward learner program.","keywords":["certification","airtribe","mckinsey"],"tags":["education"],"embedding":[]}
+
+{"id":25,"question":"What tools does he know?","intent":"skills","short_answer":"Analytics, CRM, product, and technical tools.","long_answer":"Abhijeet is proficient in tools such as Mixpanel, Google Analytics, Amplitude, Power BI, Tableau, Figma, Jira, Notion, SQL, Python, Salesforce, and HubSpot.","keywords":["tools","skills"],"tags":["skills"],"embedding":[]}
+
+{"id":26,"question":"What analytics tools has he used?","intent":"skills","short_answer":"Mixpanel, GA, Amplitude, Power BI, Tableau.","long_answer":"He has used analytics tools like Mixpanel, Google Analytics, Amplitude, Power BI, and Tableau for tracking user behavior and product performance.","keywords":["analytics","mixpanel","ga"],"tags":["skills"],"embedding":[]}
+
+{"id":27,"question":"What CRM tools has he used?","intent":"skills","short_answer":"Salesforce, HubSpot, Ashna.","long_answer":"Abhijeet has experience using CRM tools such as Salesforce, HubSpot, and Ashna for managing customer relationships and data.","keywords":["crm","salesforce"],"tags":["skills"],"embedding":[]}
+
+{"id":28,"question":"What product tools has he used?","intent":"skills","short_answer":"Figma, Notion, Miro, Clevertap, Jira.","long_answer":"He has used product tools like Figma, Notion, Miro, Clevertap, Jira, and Confluence for design, planning, and execution.","keywords":["product tools"],"tags":["skills"],"embedding":[]}
+
+{"id":29,"question":"What technical tools does he know?","intent":"skills","short_answer":"SQL, Python, Jira, Trello.","long_answer":"He has working knowledge of SQL and Python along with tools like Jira, Trello, and Confluence for development and workflow management.","keywords":["sql","python"],"tags":["skills"],"embedding":[]}
+
+{"id":30,"question":"Does he know SQL and Python?","intent":"skills","short_answer":"Yes, working knowledge.","long_answer":"Yes, Abhijeet has working knowledge of SQL for data analysis and Python for automation and product use cases.","keywords":["sql","python"],"tags":["skills"],"embedding":[]}
+
+{"id":31,"question":"What kind of product problems has he solved?","intent":"product_thinking","short_answer":"Onboarding, retention, conversion, and support issues.","long_answer":"He has solved problems related to onboarding friction, user retention, conversion bottlenecks, and inefficient customer support systems using data-driven approaches.","keywords":["problems","retention"],"tags":["pm"],"embedding":[]}
+
+{"id":32,"question":"How does he approach product discovery?","intent":"product_thinking","short_answer":"User research + data + stakeholder input.","long_answer":"He approaches product discovery by combining user research, stakeholder insights, and product analytics to identify and validate user problems.","keywords":["discovery"],"tags":["pm"],"embedding":[]}
+
+{"id":33,"question":"How does he prioritize features?","intent":"product_thinking","short_answer":"Based on impact, data, and effort.","long_answer":"He prioritizes features by evaluating user impact, business value, and development effort, supported by funnel analysis and experimentation.","keywords":["prioritization"],"tags":["pm"],"embedding":[]}
+
+{"id":34,"question":"How does he use data in product decisions?","intent":"product_thinking","short_answer":"Through analytics and experiments.","long_answer":"He uses product analytics tools to study user behavior, identify patterns, and run experiments like A/B testing to inform decisions.","keywords":["data","analytics"],"tags":["pm"],"embedding":[]}
+
+{"id":35,"question":"What metrics does he track?","intent":"metrics","short_answer":"Retention, DAU, ARR, CSAT, conversion.","long_answer":"He tracks key product metrics including retention, daily active users (DAU), ARR, NRR, CSAT, and conversion rates.","keywords":["metrics"],"tags":["metrics"],"embedding":[]}
+
+{"id":36,"question":"How has he used Mixpanel?","intent":"product_thinking","short_answer":"Funnel and behavior analysis.","long_answer":"He used Mixpanel to analyze user funnels, identify drop-offs, and improve conversion journeys.","keywords":["mixpanel"],"tags":["analytics"],"embedding":[]}
+
+{"id":37,"question":"How has he used Google Analytics?","intent":"product_thinking","short_answer":"Traffic and behavior tracking.","long_answer":"He used Google Analytics to monitor traffic patterns and user behavior on digital platforms.","keywords":["ga"],"tags":["analytics"],"embedding":[]}
+
+{"id":38,"question":"How has he used Amplitude?","intent":"product_thinking","short_answer":"Product analytics tracking.","long_answer":"He used Amplitude for deeper product analytics and understanding user behavior patterns.","keywords":["amplitude"],"tags":["analytics"],"embedding":[]}
+
+{"id":39,"question":"Has he done A/B testing?","intent":"product_thinking","short_answer":"Yes.","long_answer":"Yes, he has conducted A/B tests to validate product decisions and optimize UI/UX.","keywords":["ab testing"],"tags":["pm"],"embedding":[]}
+
+{"id":40,"question":"Can he share A/B testing examples?","intent":"product_thinking","short_answer":"Reduced misclicks by 30%.","long_answer":"He ran A/B tests on UI elements that resulted in a 30% reduction in interface misclicks, improving user experience.","keywords":["ab test","ux"],"tags":["pm"],"embedding":[]}
+{"id":41,"question":"How has he improved conversion funnels?","intent":"product_thinking","short_answer":"By identifying drop-offs and fixing bottlenecks.","long_answer":"He improved conversion funnels by analyzing user journeys through tools like Mixpanel, identifying drop-off points, and implementing targeted product changes to remove friction.","keywords":["conversion","funnels","dropoff"],"tags":["pm","analytics"],"embedding":[]}
+
+{"id":42,"question":"How has he improved onboarding?","intent":"product_thinking","short_answer":"By reducing friction through iterative improvements.","long_answer":"He improved onboarding by identifying friction points in the user journey and implementing data-backed feature updates to streamline the experience.","keywords":["onboarding"],"tags":["pm"],"embedding":[]}
+
+{"id":43,"question":"How has he reduced churn?","intent":"metrics","short_answer":"By improving engagement and time-to-connect.","long_answer":"He reduced churn by improving product engagement, optimizing key user interactions like time-to-connect, and addressing user pain points through targeted features.","keywords":["churn","retention"],"tags":["metrics"],"embedding":[]}
+
+{"id":44,"question":"How has he improved customer retention?","intent":"metrics","short_answer":"Through data-driven product improvements.","long_answer":"He improved customer retention by analyzing user behavior, identifying key issues, and implementing solutions that increased engagement and satisfaction.","keywords":["retention"],"tags":["metrics"],"embedding":[]}
+
+{"id":45,"question":"How has he improved CSAT?","intent":"metrics","short_answer":"By improving visibility and communication.","long_answer":"He improved CSAT to 90% by identifying communication gaps and implementing automated analytics reporting systems for better transparency.","keywords":["csat"],"tags":["metrics"],"embedding":[]}
+
+{"id":46,"question":"How has he worked with engineering teams?","intent":"experience","short_answer":"By translating requirements into PRDs.","long_answer":"He collaborates with engineering teams by translating business requirements into clear PRDs, user stories, and workflows to ensure smooth execution.","keywords":["engineering","prd"],"tags":["experience"],"embedding":[]}
+
+{"id":47,"question":"How has he worked with design teams?","intent":"experience","short_answer":"By improving UX through feedback and testing.","long_answer":"He works closely with design teams to improve UI/UX by conducting user research, gathering feedback, and validating changes through A/B testing.","keywords":["design","ux"],"tags":["experience"],"embedding":[]}
+
+{"id":48,"question":"How has he worked with business teams?","intent":"experience","short_answer":"By aligning product with business goals.","long_answer":"He collaborates with business and operations teams to ensure product features align with revenue goals, customer needs, and operational efficiency.","keywords":["business","alignment"],"tags":["experience"],"embedding":[]}
+
+{"id":49,"question":"Has he worked on AI-powered workflows?","intent":"projects","short_answer":"Yes.","long_answer":"Yes, he has worked on AI-powered workflows including RAG-based systems and multi-agent automation solutions.","keywords":["ai","workflow"],"tags":["projects","ai"],"embedding":[]}
+
+{"id":50,"question":"Has he worked on RAG systems?","intent":"projects","short_answer":"Yes.","long_answer":"Yes, he built a RAG-based customer support agent that uses proprietary data to generate accurate responses.","keywords":["rag"],"tags":["projects","ai"],"embedding":[]}
+
+{"id":51,"question":"Has he worked on agentic workflows?","intent":"projects","short_answer":"Yes.","long_answer":"Yes, he developed a multi-agent system (MCP orchestrator) to automate content creation and distribution.","keywords":["agents","automation"],"tags":["projects","ai"],"embedding":[]}
+
+{"id":52,"question":"What was his role in IM Insta rollout?","intent":"experience","short_answer":"Led beta rollout and improved adoption.","long_answer":"He led the strategic beta rollout of IM Insta, improving adoption, increasing DAU, and reducing churn through better engagement mechanisms.","keywords":["im insta"],"tags":["experience"],"embedding":[]}
+
+{"id":53,"question":"What impact did he create at IndiaMART?","intent":"metrics","short_answer":"DAU +55%, retention improved.","long_answer":"At IndiaMART, he increased DAUs by 55%, improved retention, and reduced churn through product improvements and strategic rollout initiatives.","keywords":["indiamart","impact"],"tags":["metrics"],"embedding":[]}
+
+{"id":54,"question":"What impact did he create at RCV Technologies?","intent":"metrics","short_answer":"Retention +34%, ARR +43%, support -80%.","long_answer":"At RCV Technologies, he improved retention by 34%, scaled ARR/NRR by 43%, and reduced support requests by 80% through product and process enhancements.","keywords":["rcv","impact"],"tags":["metrics"],"embedding":[]}
+
+{"id":55,"question":"What kind of product strategy experience does he have?","intent":"product_thinking","short_answer":"Growth, retention, and scaling.","long_answer":"He has experience in growth strategy, retention strategy, and scaling products through data-driven decision-making and experimentation.","keywords":["strategy"],"tags":["pm"],"embedding":[]}
+
+{"id":56,"question":"Has he worked from MVP to GTM?","intent":"experience","short_answer":"Yes.","long_answer":"Yes, especially at Flexmotiv, where he managed the product lifecycle from MVP to go-to-market execution.","keywords":["mvp","gtm"],"tags":["experience"],"embedding":[]}
+
+{"id":57,"question":"What roadmap ownership has he handled?","intent":"product_thinking","short_answer":"Owned roadmaps aligned with OKRs.","long_answer":"He has owned product roadmaps aligned with OKRs and business goals, ensuring timely delivery and strategic alignment.","keywords":["roadmap"],"tags":["pm"],"embedding":[]}
+
+{"id":58,"question":"How does he handle ambiguous problems?","intent":"product_thinking","short_answer":"Breaks them down using data and experiments.","long_answer":"He handles ambiguity by breaking problems into smaller parts, using data insights, stakeholder input, and running experiments to validate solutions.","keywords":["ambiguity"],"tags":["pm"],"embedding":[]}
+
+{"id":59,"question":"Has he worked on support automation?","intent":"projects","short_answer":"Yes.","long_answer":"Yes, he built a RAG-based customer support system that automated responses and improved efficiency.","keywords":["support","automation"],"tags":["projects"],"embedding":[]}
+
+{"id":60,"question":"Has he built products using proprietary data?","intent":"projects","short_answer":"Yes.","long_answer":"Yes, particularly in his RAG system where responses were grounded in proprietary company data to ensure accuracy.","keywords":["data","rag"],"tags":["projects"],"embedding":[]}
+{"id":61,"question":"Who is Abhijeet Kumar?","intent":"summary","short_answer":"A Product Manager specializing in data-driven and AI-powered products.","long_answer":"Abhijeet Kumar is a Product Manager with 5+ years of experience specializing in data-driven product development, retention optimization, and AI-powered systems.","keywords":["who","profile"],"tags":["summary"],"embedding":[]}
+
+{"id":62,"question":"What does Abhijeet do?","intent":"summary","short_answer":"Builds and improves digital products.","long_answer":"He builds and improves digital products by focusing on user experience, analytics, and business impact through structured product management practices.","keywords":["role"],"tags":["summary"],"embedding":[]}
+
+{"id":63,"question":"What are his top skills?","intent":"skills","short_answer":"Product analytics, A/B testing, retention, AI.","long_answer":"His top skills include product analytics, A/B testing, retention strategy, funnel optimization, and AI-based product development.","keywords":["skills"],"tags":["skills"],"embedding":[]}
+
+{"id":64,"question":"What makes him different from other PMs?","intent":"summary","short_answer":"Combines business, data, and AI skills.","long_answer":"He stands out by combining strong business understanding, data-driven decision-making, and hands-on experience building AI systems like RAG agents and multi-agent workflows.","keywords":["differentiation"],"tags":["summary"],"embedding":[]}
+
+{"id":65,"question":"What problems does he like solving?","intent":"summary","short_answer":"Retention, conversion, onboarding, automation.","long_answer":"He enjoys solving problems related to user retention, conversion optimization, onboarding friction, and automation of repetitive workflows.","keywords":["problems"],"tags":["summary"],"embedding":[]}
+
+{"id":66,"question":"What projects has he built?","intent":"projects","short_answer":"Car visualizer, MCP orchestrator, RAG agent.","long_answer":"He has built multiple AI-driven projects including a real-time car visualizer, a multi-agent content automation system (MCP orchestrator), and a RAG-based customer support agent.","keywords":["projects"],"tags":["projects"],"embedding":[]}
+
+{"id":67,"question":"Can you show his AI projects?","intent":"projects","short_answer":"Yes, multiple AI-driven systems.","long_answer":"His AI projects include a real-time car visualizer, a multi-agent content automation system, and a RAG-based customer support agent designed for enterprise use.","keywords":["ai projects"],"tags":["projects","ai"],"embedding":[]}
+
+{"id":68,"question":"Tell me about the car visualizer project.","intent":"projects","short_answer":"Real-time car color visualization tool.","long_answer":"The car visualizer is an AI-powered tool that allows users to see real-time color changes on cars, reducing purchase hesitation and increasing engagement.","keywords":["car","visualizer"],"tags":["projects"],"embedding":[]}
+
+{"id":69,"question":"What problem did the car visualizer solve?","intent":"projects","short_answer":"Reduced purchase hesitation.","long_answer":"It solved the problem of customer hesitation during purchase decisions by allowing users to visualize product outcomes instantly.","keywords":["problem","visualizer"],"tags":["projects"],"embedding":[]}
+
+{"id":70,"question":"What tools were used in the car visualizer?","intent":"projects","short_answer":"Cursor and n8n.","long_answer":"The project used tools like Cursor and n8n for rapid AI-assisted prototyping and automation.","keywords":["tools","visualizer"],"tags":["projects"],"embedding":[]}
+
+{"id":71,"question":"Tell me about the MCP orchestrator.","intent":"projects","short_answer":"Multi-agent content automation system.","long_answer":"The MCP orchestrator is a system of multiple AI agents that automate the entire content lifecycle from trend discovery to publishing.","keywords":["mcp","agents"],"tags":["projects","ai"],"embedding":[]}
+
+{"id":72,"question":"What does the MCP orchestrator do?","intent":"projects","short_answer":"Automates content creation and publishing.","long_answer":"It automates content workflows including research, creation, and distribution, enabling a 10x increase in content output.","keywords":["automation"],"tags":["projects"],"embedding":[]}
+
+{"id":73,"question":"Tell me about the RAG agent.","intent":"projects","short_answer":"AI support system using proprietary data.","long_answer":"The RAG agent is a customer support system that uses proprietary data to generate accurate responses, improving efficiency and accuracy.","keywords":["rag"],"tags":["projects","ai"],"embedding":[]}
+
+{"id":74,"question":"What problem did the RAG agent solve?","intent":"projects","short_answer":"Slow and inaccurate support.","long_answer":"It solved the problem of slow and inconsistent customer support by automating responses with high accuracy.","keywords":["support"],"tags":["projects"],"embedding":[]}
+
+{"id":75,"question":"How accurate was the RAG system?","intent":"metrics","short_answer":"~99% accuracy.","long_answer":"The RAG system achieved approximately 99% accuracy by grounding responses in proprietary data sources.","keywords":["accuracy"],"tags":["metrics"],"embedding":[]}
+
+{"id":76,"question":"How much faster was support after automation?","intent":"metrics","short_answer":"95% faster.","long_answer":"The system reduced response latency by 95%, significantly improving customer support efficiency.","keywords":["latency"],"tags":["metrics"],"embedding":[]}
+
+{"id":77,"question":"What tools were used in the RAG project?","intent":"projects","short_answer":"n8n and vector database.","long_answer":"The RAG project used n8n for workflow automation and a vector database for retrieval-based responses.","keywords":["rag tools"],"tags":["projects"],"embedding":[]}
+
+{"id":78,"question":"What tools were used in the content automation project?","intent":"projects","short_answer":"n8n, Tavily, vector DB.","long_answer":"The MCP orchestrator used tools like n8n, Tavily, and vector databases to automate content workflows.","keywords":["tools"],"tags":["projects"],"embedding":[]}
+
+{"id":79,"question":"What is his strongest skill?","intent":"summary","short_answer":"Data-driven decision-making.","long_answer":"His strongest skill is making data-driven product decisions using analytics, experimentation, and user insights.","keywords":["strength"],"tags":["summary"],"embedding":[]}
+
+{"id":80,"question":"What roles is he suitable for?","intent":"summary","short_answer":"PM roles in growth, analytics, and AI.","long_answer":"He is best suited for Product Manager roles focused on growth, analytics, retention, and AI-driven product development.","keywords":["roles"],"tags":["summary"],"embedding":[]}
+
+{"id":81,"question":"Explain his retention work simply.","intent":"summary","short_answer":"He helps users stay longer.","long_answer":"He improves how long users continue using a product by identifying issues and fixing them through better features and experiences.","keywords":["retention"],"tags":["simple"],"embedding":[]}
+
+{"id":82,"question":"Explain funnel analysis simply.","intent":"summary","short_answer":"Finds where users drop off.","long_answer":"Funnel analysis helps identify where users stop using a product, so those points can be improved.","keywords":["funnel"],"tags":["simple"],"embedding":[]}
+
+{"id":83,"question":"Explain A/B testing simply.","intent":"summary","short_answer":"Tests what works better.","long_answer":"A/B testing compares two versions of a feature to see which performs better based on user behavior.","keywords":["ab testing"],"tags":["simple"],"embedding":[]}
+
+{"id":84,"question":"Explain product analytics simply.","intent":"summary","short_answer":"Uses data to understand users.","long_answer":"Product analytics involves analyzing user data to understand behavior and improve product decisions.","keywords":["analytics"],"tags":["simple"],"embedding":[]}
+
+{"id":85,"question":"Explain PRDs simply.","intent":"summary","short_answer":"Documents for building features.","long_answer":"PRDs are documents that explain what needs to be built, why, and how it should work.","keywords":["prd"],"tags":["simple"],"embedding":[]}
+
+{"id":86,"question":"Explain user research simply.","intent":"summary","short_answer":"Talking to users to learn.","long_answer":"User research involves collecting feedback from users to understand their needs and improve the product.","keywords":["research"],"tags":["simple"],"embedding":[]}
+
+{"id":87,"question":"Explain customer feedback usage.","intent":"summary","short_answer":"Used to improve products.","long_answer":"Customer feedback is analyzed and used to refine features and improve overall product experience.","keywords":["feedback"],"tags":["simple"],"embedding":[]}
+
+{"id":88,"question":"Explain wireframing simply.","intent":"summary","short_answer":"Designing product layouts.","long_answer":"Wireframing is creating basic layouts of a product before development to visualize structure and flow.","keywords":["wireframe"],"tags":["simple"],"embedding":[]}
+
+{"id":89,"question":"Explain stakeholder management simply.","intent":"summary","short_answer":"Aligning teams.","long_answer":"Stakeholder management means coordinating with different teams to ensure everyone is aligned on product goals.","keywords":["stakeholder"],"tags":["simple"],"embedding":[]}
+
+{"id":90,"question":"Explain AI product work simply.","intent":"summary","short_answer":"Building smart automated systems.","long_answer":"AI product work involves building systems that automate tasks and make intelligent decisions using data and models.","keywords":["ai"],"tags":["simple"],"embedding":[]}
